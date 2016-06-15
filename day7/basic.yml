@@ -1,0 +1,7 @@
+credidentials:
+ username: test
+ password: RTG3YSG
+accounts:
+ - facebook
+ - twitter
+ - linkedin
